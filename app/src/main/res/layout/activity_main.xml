@@ -230,7 +230,7 @@
         android:id="@+id/textView10"
         android:layout_width="268dp"
         android:layout_height="57dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="15dp"
         android:background="@drawable/backgroundtheme"
         android:gravity="center"
         android:text="LOST ARK BOSS TIMER"
