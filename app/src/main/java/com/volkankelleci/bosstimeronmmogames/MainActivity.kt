@@ -84,7 +84,7 @@ class MainActivity: AppCompatActivity() {
             }
         }.start()
     }
-    fun ma(view: View){
+    fun mag(view: View){
         object : CountDownTimer(7200000 ,1000) {
             override fun onTick(p0: Long) {
                 textView7.text="${p0/1000}"
